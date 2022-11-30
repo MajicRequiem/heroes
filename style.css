@@ -1,0 +1,70 @@
+* {
+    font-family: monospace;
+}
+
+body {
+    background-color: lightblue;
+    padding: 20px 30px;
+}
+
+.content {
+    align-items: inherit;
+}
+
+.sthead {
+    font-size: 36px;
+    font-weight: 700;
+    width: 300px;
+}
+
+.midoriya {
+    padding: 20px 30px;
+    height: 200px;
+    width: 300px;
+    background-color: green;
+}
+
+.mtext {
+    padding-top: 15px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.shoto {
+    padding: 20px 30px;
+    height: 200px;
+    width: 300px;
+    background-color: coral;
+}
+
+.stext {
+    padding-top: 15px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.bakugo {
+    padding: 20px 30px;
+    height: 200px;
+    width: 300px;
+    background-color: antiquewhite;
+}
+
+.btext {
+    padding-top: 15px;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.fumikage {
+    padding: 20px 30px;
+    height: 200px;
+    width: 300px;
+    background-color: royalblue;
+}
+
+.ftext {
+    padding-top: 15px;
+    font-size: 24px;
+    font-weight: 900;
+}
